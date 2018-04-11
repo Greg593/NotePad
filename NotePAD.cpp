@@ -2,6 +2,7 @@
  * NotePAD.cpp
  * 
  * Copyright 2014 Victor <victor@VMorales>
+ * Ejemplo de Git
  */
 
 /* -------------------------------------------------------------------*/
